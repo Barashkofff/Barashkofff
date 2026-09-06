@@ -10,9 +10,10 @@
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
-- 🔭 Изучаю Java
+- 🔭 Изучаю Go
+- 💻 Прошёл стажировку на Go-разработчика в Ozon
 - 🌱 Создавал игру в рамках проектной деятельности
-- ⚡ Студент ЮФУ МехМат
+- ⚡ Закончил ЮФУ МехМат
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-barashkovartem-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/forealtema)
 
 ---
